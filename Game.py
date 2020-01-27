@@ -2,7 +2,7 @@ import msvcrt
 import os
 
 from Area import Area
-from Player import Player
+from entities.Player import Player
 
 complexities = [["Very easy", 0.9],
                 ["Easy", 0.8],

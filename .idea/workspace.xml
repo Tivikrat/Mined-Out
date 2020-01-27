@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b55d384-b2f8-4152-9ffe-ad41f5bda66a" name="Default Changelist" comment="" />
+    <list default="true" id="0b55d384-b2f8-4152-9ffe-ad41f5bda66a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Area.py" beforeDir="false" afterPath="$PROJECT_DIR$/Area.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drawable.py" beforeDir="false" afterPath="$PROJECT_DIR$/entities/Drawable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exit.py" beforeDir="false" afterPath="$PROJECT_DIR$/entities/Exit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Field.py" beforeDir="false" afterPath="$PROJECT_DIR$/entities/Field.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mine.py" beforeDir="false" afterPath="$PROJECT_DIR$/entities/Mine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Player.py" beforeDir="false" afterPath="$PROJECT_DIR$/entities/Player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wall.py" beforeDir="false" afterPath="$PROJECT_DIR$/entities/Wall.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/Empty.py" beforeDir="false" afterPath="$PROJECT_DIR$/entities/Empty.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +25,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WoC6eldrDMhkrOLt4ShPcZ4bBQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -76,6 +91,7 @@
       <workItem from="1579806391232" duration="11943000" />
       <workItem from="1579865799624" duration="3256000" />
       <workItem from="1579943523862" duration="6534000" />
+      <workItem from="1580125717891" duration="60000" />
     </task>
     <servers />
   </component>
@@ -95,52 +111,52 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579810569172" />
-    <state width="1877" height="480" key="GridCell.Tab.0.bottom" timestamp="1579956244764">
+    <state width="1877" height="480" key="GridCell.Tab.0.bottom" timestamp="1580125785615">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="480" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579956244764" />
-    <state width="1877" height="480" key="GridCell.Tab.0.center" timestamp="1579956244763">
+    <state width="1877" height="480" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580125785615" />
+    <state width="1877" height="480" key="GridCell.Tab.0.center" timestamp="1580125785615">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="480" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579956244763" />
-    <state width="1877" height="480" key="GridCell.Tab.0.left" timestamp="1579956244763">
+    <state width="1877" height="480" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580125785615" />
+    <state width="1877" height="480" key="GridCell.Tab.0.left" timestamp="1580125785615">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="480" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579956244763" />
-    <state width="1877" height="480" key="GridCell.Tab.0.right" timestamp="1579956244764">
+    <state width="1877" height="480" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580125785615" />
+    <state width="1877" height="480" key="GridCell.Tab.0.right" timestamp="1580125785615">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="480" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579956244764" />
-    <state width="1877" height="480" key="GridCell.Tab.1.bottom" timestamp="1579956244764">
+    <state width="1877" height="480" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580125785615" />
+    <state width="1877" height="480" key="GridCell.Tab.1.bottom" timestamp="1580125785616">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="480" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579956244764" />
-    <state width="1877" height="480" key="GridCell.Tab.1.center" timestamp="1579956244764">
+    <state width="1877" height="480" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580125785616" />
+    <state width="1877" height="480" key="GridCell.Tab.1.center" timestamp="1580125785615">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="480" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579956244764" />
-    <state width="1877" height="480" key="GridCell.Tab.1.left" timestamp="1579956244764">
+    <state width="1877" height="480" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580125785615" />
+    <state width="1877" height="480" key="GridCell.Tab.1.left" timestamp="1580125785615">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="480" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579956244764" />
-    <state width="1877" height="480" key="GridCell.Tab.1.right" timestamp="1579956244764">
+    <state width="1877" height="480" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580125785615" />
+    <state width="1877" height="480" key="GridCell.Tab.1.right" timestamp="1580125785615">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="480" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579956244764" />
+    <state width="1877" height="480" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580125785615" />
     <state x="461" y="163" key="SettingsEditor" timestamp="1579950452855">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579950452855" />
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1579865801576">
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1580125718079">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579865801576" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580125718079" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1579950428178">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1579950428178" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Mined_Out$Game.coverage" NAME="Game Coverage Results" MODIFIED="1579953313109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Mined_Out$Game.coverage" NAME="Game Coverage Results" MODIFIED="1580125770400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

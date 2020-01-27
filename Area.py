@@ -1,11 +1,11 @@
 from random import random
 
 from entities.Empty import Empty
-from Exit import Exit
-from Field import Field
-from Mine import Mine
-from Player import Player
-from Wall import Wall
+from entities.Exit import Exit
+from entities.Field import Field
+from entities.Mine import Mine
+from entities.Player import Player
+from entities.Wall import Wall
 
 
 class Area:

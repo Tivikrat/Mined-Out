@@ -1,5 +1,5 @@
-from Drawable import Drawable
-from Player import Player
+from entities.Drawable import Drawable
+from entities.Player import Player
 
 
 class Mine(Drawable):

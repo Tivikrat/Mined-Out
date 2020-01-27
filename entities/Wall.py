@@ -1,4 +1,4 @@
-from Drawable import Drawable
+from entities.Drawable import Drawable
 
 
 class Wall(Drawable):
